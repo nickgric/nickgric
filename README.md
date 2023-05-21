@@ -1,4 +1,4 @@
-# Mykola Hrytsaienko | Frontend Developer
+# Mykola Hrytsaienko (@nickgric) | Frontend Developer
 **Toronto, ON, Canada** | [mail](mailto:nickgric@gmail.com) ∼ [linkedin](https://www.linkedin.com/in/nickgric/) ∼ [github](https://github.com/nickgric) ∼ +1 (249) 989 4999
 
 *True geek with endless experience in the IT field. Still thrilled by new technologies, but now not only write about them as a journalist but also create them as a Frontend Developer.*
