@@ -5,11 +5,11 @@
 
 ## Experience
 
-### **Frontend Developer** (Freelance) ∼ **Jan 2022 → today**
+### **Frontend Developer** (Self-employed) ∼ **Jan 2022 → today**
 - [MoviePocket](https://moviepocket.netlify.app/) ([GitHub](https://github.com/nickgric/moviepocket)) — own pet-project, alfa-v. of movie-searching app with TMDB-data (React, Chakra UI)
 - [Wallet](https://wallet-goit-fsv.netlify.app/) ([GitHub](https://github.com/Sergeyfilatyev/wallet-goit-ui)) — team pet-project (my part is Frontend), beta-v. of personal expenses and income control app (React, Chakra UI, Node, MongoDB)
 
-### **IT Journalist** (Freelance) ∼ **April 2013 → today**
+### **IT Journalist** (Self-employed) ∼ **April 2013 → today**
 - [iphones](https://www.iphones.ru/) — 1700+ art. related Apple products, hi-tech, science, lifestyle
 - [trashbox](https://trashbox.ru/) — 1500+ art. related new gadgets, soft, science, cars, space
 - [re-store](https://re-store.ru/blog/) — 1000+ art. related Apple products, new gadgets, soft
